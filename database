@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/db_nagrak_rt004b?createDatabaseIfNotExist=true
+spring.datasource.username=root
+spring.datasource.password=password_kamu
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
